@@ -55,3 +55,22 @@ locations, without depending on the provision of cardiac arrest data.
   </li>
   <li><b>src</b> - Useful scripts used throughout the analysis.</li>
 </ul>
+
+<!-- DATA AVAILABILITY STATEMENT -->
+<h2 id="data-availability-statement"> Data Availability Statement </h2>
+
+The data used in this report was compiled from the following public resources:
+
+<ul>
+    <li> 2021 UK Census: <a href="https://www.ons.gov.uk/census">https://www.ons.gov.uk/census</a> 
+      <ul>
+          <li> Age, general health and sex:  <a href = "https://www.ons.gov.uk/datasets/create/filter-outputs/d8c5093e-eb9b-4690-bd4f-a467a36570b9#get-data"> Link to data</a></li>
+          <li> Household Deprivation: <a href = "https://www.ons.gov.uk/datasets/create/filter-outputs/409c267b-e595-41b7-9058-8a04ab09efc8#get-data">Link to data </a></li>
+          <li> Population Density: <a href = "https://www.ons.gov.uk/datasets/TS006/editions/2021/versions/4/filter-outputs/c1e5c199-0b74-44eb-8ba8-13abf7b8a112#get-data">Link to data</a></li>
+          <li> Workday Population: <a href = "https://www.nomisweb.co.uk/sources/census_2021_wd">Link to data</a></li>
+      </ul>
+    </li>
+    <li> Quality Care Commission (Care Facility Data): <a href = "https://www.cqc.org.uk/about-us/transparency/using-cqc-data">Link to data</a></li>
+    <li> Sport England's Active Places (Sports Sites): <a href = "https://www.activeplacespower.com/pages/downloads#download">Link to data</a></li>
+    <li> British Heart Foundation's 'The Circuit' (AED locations): <a href = "https://www.bhf.org.uk/how-you-can-help/how-to-save-a-life/defibrillators/national-defibrillator-network-the-circuit/defibrillator-location-data">Link to data</a> </li>
+</ul>
