@@ -45,6 +45,7 @@ locations, without depending on the provision of cardiac arrest data.
   <li><b>data/external_datasets</b> - Where the external datasets used in analysis reside. This includes UK Census data as well as sportsite, care facility, and defibrillator locations.</li>
   <li><b>data/maps</b> - Where map files used to construct London geography reside.</li>
   <li><b>outputs</b> - Outputs resulting from stages of analysis, including manipulated data and maps.</li>
+  <li><b>reports</b> - Static reports relating to the analysis, including complete MSc Research Paper.</li>
   <li><b>scrips</b> - The files used to conduct the key analysis, broken into 4 stages.
     <ul>
             <li><b>01_interpolation</b> - Interpolating demographic and geographic data to a uniform grid across London.</li>
