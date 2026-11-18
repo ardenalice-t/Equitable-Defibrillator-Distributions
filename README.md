@@ -7,6 +7,13 @@
 
 <p align="justify"> 
   This is an adapted version of the project developed for my MSc Statistics Degree at Imperial College London. 
+  
+  Please find the following static one-pagers summarising the project in the 'reports' folder:
+  <ul>
+    <li>[Problem and Context](reports/Problem-and-Context_Summary.pdf),</li>
+    <li>Analytical Approach,</li>
+    <li>Results and Next Steps.</li>
+  </ul>
 </p>
 
 <!-- ABSTRACT -->
