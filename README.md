@@ -10,9 +10,9 @@
   
   Please find the following static one-pagers summarising the project in the 'reports' folder:
   <ul>
-    <li>[Problem and Context](reports/Problem-and-Context_Summary.pdf),</li>
-    <li>Analytical Approach,</li>
-    <li>Results and Next Steps.</li>
+    <li><a href="reports/Problem-and-Context_Summary.pdf">Problem and Context</a>,</li>
+    <li><a href="reports/Analytic-Approach_Summary.pdf">Analytical Approach</a>,</li>
+    <li><a href="reports/Results-and-Next-Steps_Summary.pdf">Results and Next Steps</a>.</li>
   </ul>
 </p>
 
