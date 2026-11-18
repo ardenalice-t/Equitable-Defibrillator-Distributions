@@ -6,6 +6,7 @@
 **/constraint_mat_gradated.csv
 **/constraint_mat_grad.csv
 reports/Complete-Research-Paper_Latex-Files/
+*.pages
 
 # History files
 .Rhistory
