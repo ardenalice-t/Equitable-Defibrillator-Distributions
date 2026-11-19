@@ -14,6 +14,8 @@
     <li><a href="reports/2_Analytical-Approach_Summary.pdf">Analytical Approach</a>,</li>
     <li><a href="reports/3_Findings-and-Next-Steps_Summary.pdf">Findings and Next Steps</a>.</li>
   </ul>
+
+  The folder also contains <a href="reports/Presentation-Slides.pdf">slides prepared for the presentation</a>. 
 </p>
 
 <!-- ABSTRACT -->
