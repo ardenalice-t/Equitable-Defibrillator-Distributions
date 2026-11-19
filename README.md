@@ -12,7 +12,7 @@
   <ul>
     <li><a href="reports/Problem-and-Context_Summary.pdf">Problem and Context</a>,</li>
     <li><a href="reports/Analytical-Approach_Summary.pdf">Analytical Approach</a>,</li>
-    <li><a href="reports/Results-and-Next-Steps_Summary.pdf">Results and Next Steps</a>.</li>
+    <li><a href="reports/Findings-and-Next-Steps_Summary.pdf">Findings and Next Steps</a>.</li>
   </ul>
 </p>
 
