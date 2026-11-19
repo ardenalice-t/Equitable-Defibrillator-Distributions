@@ -6,7 +6,7 @@
 <h2 id="about-the-project"> 🫀 About The Project</h2>
 
 <p align="justify"> 
-  This is an adapted version of the project developed for my MSc Statistics Degree at Imperial College London. 
+  This is an adapted version of the project developed for my MSc Statistics Degree at Imperial College London, prepared for Bending Spoons. 
   
   Please find the following static one-pagers summarising the project in the 'reports' folder:
   <ul>
